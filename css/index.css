@@ -233,7 +233,7 @@ footer nav a {
 
 .header {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   max-width: 100%;
 }
 .toppic {
@@ -245,6 +245,7 @@ footer nav a {
 .header a {
   color: black;
   text-decoration: none;
+  padding: 2% 2%;
 }
 
 .boxes .box:nth-child(1) {
@@ -285,4 +286,24 @@ footer nav a {
 
 .boxes .box:nth-child(10) {
   background: dodgerblue;
+}
+
+.aboutcontan {
+  display: flex;
+  margin: 0 2% 20px;
+  justify-content: space-around;
+}
+
+.button {
+  background-color: ; /* Green */
+  border-color: black;
+  color: black;
+  padding: 5px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
 }

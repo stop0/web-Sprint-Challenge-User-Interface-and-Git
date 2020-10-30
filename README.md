@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+I would say that semantic HTMl is HTMl which has meaning like p,h1,img.
+
 2. Name two big differences between `display: block;` and `display: inline;`.
+   display:block is when an element is displayed as a block. Even when you display a circle, its still a block.
+   display:inline is when an element is displayed in the same line as another element would or block in this case.
 
 3. What are the 4 areas of the box model?
 
+The 4 areas includes the content area, padding area, border area, and margin area.
+
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
 
+On the cross axis
+
 5. Explain why git is valuable to a team of developers.
+
+Its a form of version control. You can visit a time in the past inorder fix issues. You and another developer can work on different features without having to consistently send files around.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 

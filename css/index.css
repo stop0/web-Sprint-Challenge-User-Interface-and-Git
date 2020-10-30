@@ -307,3 +307,24 @@ footer nav a {
   cursor: pointer;
   border-radius: 12px;
 }
+
+.wordCont {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.wordCont .img {
+  width: 48%;
+  padding: 0 1%;
+  padding-bottom: 20px;
+}
+
+.img {
+  margin-bottom: 20px;
+  border-bottom: 1px dashed black;
+}
+
+.Ender {
+  padding: 5%;
+}

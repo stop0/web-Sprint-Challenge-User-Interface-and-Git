@@ -235,6 +235,12 @@ footer nav a {
   display: flex;
   justify-content: center;
   max-width: 100%;
+  padding-top: 3%;
+}
+.header img {
+  height: 5%;
+  width: auto;
+  padding-top: 1%;
 }
 .toppic {
   display: flex;
@@ -292,6 +298,10 @@ footer nav a {
   display: flex;
   margin: 0 2% 20px;
   justify-content: space-around;
+}
+
+.top-content {
+  padding: 2%;
 }
 
 .button {
